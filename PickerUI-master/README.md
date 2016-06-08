@@ -156,40 +156,6 @@ Who's using it
 Author
 ============
 
-David Pizarro (dpizarro89@gmail.com)
-
-<a href="https://plus.google.com/u/0/110797503395500685158">
-  <img alt="Follow me on Google+"
-       src="https://raw.githubusercontent.com/DavidPizarro/android-live-templates/master/art/google.png" />
-</a>
-<a href="https://twitter.com/DavidPizarro89">
-  <img alt="Follow me on Twitter"
-       src="https://raw.githubusercontent.com/DavidPizarro/android-live-templates/master/art/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/davidpizarrodejesus">
-  <img alt="Follow me on LinkedIn"
-       src="https://raw.githubusercontent.com/DavidPizarro/android-live-templates/master/art/linkedin.png" />
-</a>
+wanghui (kisty_hui@foxmail.com)
 
 
-License
--------
-
-    Copyright 2015 David Pizarro
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
----
-
-[1]: https://play.google.com/store/apps/details?id=com.dpizarro.libraries.uipickerlibrary
-[2]: https://github.com/DavidPizarro/PickerUI/tree/master/app
-[3]: https://github.com/DavidPizarro/PickerUI/blob/master/library/src/main/res/values/attrs.xml
